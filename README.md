@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**araniaT/araniaT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ -😊Olá mundo, meu nome é Tainara.
+ -Tenho 17 anos.
+ -Eu sou costureira, atualmente trabalhando nessa área.
+- Sou estudante do Ensino Médio e estudo na escola São João Bosco.
+- Meus Cursos:Assistência de Serviços Juridicos, Pintura em Tecido e atualmente estou fazendo um de Lógica de Progrmação.
+- Estarei postando meus trabalhos do curso aqui.
+- Meus pronomes são : ela/dela.
+- Sou capricorniana.
+- Tenho um irmão mais novo e adoro crianças pequenas.
+- Meus interesses são: Pintura(arte), dança. música, modelagem, cozinhar e livros(tanto ler, quanto escrever e opinar e ajudar os outros com seus próprios projetos.)
+- Atualmente estou em um projeto pessoal de tradução de textos e histórias, em maioria da internet.
