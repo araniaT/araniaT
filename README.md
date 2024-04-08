@@ -1,4 +1,7 @@
+
  -😊Olá mundo, meu nome é Tainara.
+
+ 
  -Tenho 17 anos.
  -Eu sou costureira, atualmente trabalhando nessa área.
 - Sou estudante do Ensino Médio e estudo na escola São João Bosco.
